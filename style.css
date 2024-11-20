@@ -1,0 +1,26 @@
+.start{
+    text-align: center;
+}
+
+.start h1{
+    font-size: 80px;
+    font-weight: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.start h2, .start h3, .start h4{
+    font-size: 35px;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.start button{
+    background-color: blue;
+    color: white;
+    padding: 30px 100px;
+}
+
+.start button:hover{
+    background-color: seagreen;
+    cursor: pointer;
+}
